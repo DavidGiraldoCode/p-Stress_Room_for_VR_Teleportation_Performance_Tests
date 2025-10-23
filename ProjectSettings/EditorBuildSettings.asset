@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/_Course Library/Source Files/Sample Scenes/ModernRoom_Sample.unity
+    path: Assets/XRStartingKit/_Course Library/Source Files/Sample Scenes/ModernRoom_Sample.unity
     guid: bbae9a62884d5c744bb7fed2e671b6a4
   - enabled: 0
     path: Assets/Scenes/Aaron S VR Room - 1.2.unity
@@ -77,13 +77,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Create-with-VR-Starter-Scene.unity
     guid: 27db7de597d97c24fb816fd22b8ecb07
-  - enabled: 1
-    path: Assets/Samples/XR Interaction Toolkit/3.0.8/Starter Assets/DemoScene.unity
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/3.2.1/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: Assets/Scene/Main_Room.unity
+    guid: 40902f98aaf32453ea6886d0d149891a
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e3f999c3abbcc41c99f610f88fbd07bd, type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2529be785650840c38a4467e2b6f9691, type: 2}
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 5d38af9b0bb79f242a67cf0b7307cace, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: d4e5bdbec2c8f874f9430c3dc095ff25, type: 3}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 252bea5c0aac647f381f7ac71f9619c7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 428f980946b11446695cb51700db9741, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 83269b782f201db48b7677797d4cb1a4, type: 2}
   m_UseUCBPForAssetBundles: 0
