@@ -6,3 +6,6 @@ _Research Tool for Game Dev_
 - OpenXR Plugin Manager
 - OpenXR Interaction Kit
 - ProBuilder
+
+## Refs
+[C# identifier naming rules and conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names)
